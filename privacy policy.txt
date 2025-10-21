@@ -1,248 +1,576 @@
-TERMS OF USE
-Last updated September 05, 2025
+# PRIVACY POLICY
+**Last updated: October 21, 2024**
+
+## INTRODUCTION
+
+This Privacy Policy describes how ABG AUTO ("we," "our," or "us") collects, uses, processes, and protects your personal information when you use the ScoutCar mobile application (the "App") and related services (collectively, the "Services").
+
+**Company Information:**
+- **Company Name:** ABG AUTO
+- **Registration Number:** 1912411X
+- **Address:** App A1 Immeuble Tamayouz Centre Urbain Nord 1082, Tunis, Tunisia
+- **Email:** contact@scoutcar.tn
+- **Phone:** (+216) 28 48 99 94
+
+This Privacy Policy complies with Tunisian data protection laws, including Law No. 2004-63 of July 27, 2004, on the protection of personal data, and incorporates protections for international users including EU residents under GDPR.
+
+**By using our Services, you consent to the collection, use, and processing of your information as described in this Privacy Policy.**
+
+## TABLE OF CONTENTS
+
+1. [INFORMATION WE COLLECT](#1-information-we-collect)
+2. [HOW WE USE YOUR INFORMATION](#2-how-we-use-your-information)
+3. [LOCATION DATA](#3-location-data)
+4. [THIRD-PARTY SERVICES](#4-third-party-services)
+5. [INFORMATION SHARING](#5-information-sharing)
+6. [DATA SECURITY](#6-data-security)
+7. [DATA RETENTION](#7-data-retention)
+8. [YOUR PRIVACY RIGHTS](#8-your-privacy-rights)
+9. [CHILDREN'S PRIVACY](#9-childrens-privacy)
+10. [INTERNATIONAL DATA TRANSFERS](#10-international-data-transfers)
+11. [COOKIES AND TRACKING](#11-cookies-and-tracking)
+12. [UPDATES TO THIS POLICY](#12-updates-to-this-policy)
+13. [CONTACT INFORMATION](#13-contact-information)
+
+---
+
+## 1. INFORMATION WE COLLECT
+
+We collect several types of information from and about users of our Services:
+
+### 1.1 Personal Information You Provide
+
+**Account Information:**
+- Full name
+- Email address
+- Phone number
+- Profile photo (optional)
+- Account preferences and settings
+
+**Vehicle Listing Information:**
+- Vehicle descriptions and details
+- Vehicle photographs
+- Pricing information
+- Contact preferences
+- Vehicle location (address or general area)
+
+**Communication Data:**
+- Messages sent through our platform
+- Communication preferences
+- Customer support interactions
+
+### 1.2 Information Automatically Collected
+
+**Device Information:**
+- Device type and model
+- Operating system and version
+- Unique device identifiers
+- Mobile network information
+- App version and usage statistics
+
+**Usage Data:**
+- Features used within the App
+- Time spent using the App
+- User interactions and preferences
+- Search queries and filters applied
+- Listings viewed and saved
+
+**Technical Data:**
+- IP address
+- Browser type and version (for web components)
+- Log files and crash reports
+- Performance and diagnostic data
+
+### 1.3 Location Information
+
+We collect location information in several ways:
+
+**Precise Location Data:**
+- GPS coordinates when you grant location permissions
+- Location data for vehicle listings you create
+- Location-based search queries
+
+**Approximate Location Data:**
+- General city or region based on IP address
+- Location preferences you set in the app
+- Location data derived from search activities
+
+**Location History:**
+- We do not continuously track or store your location history
+- Location data is collected only when actively using location features
+
+## 2. HOW WE USE YOUR INFORMATION
+
+We use the information we collect for the following purposes:
+
+### 2.1 Service Provision
+- **Account Management:** Create and manage your user account
+- **Listing Services:** Enable you to create, edit, and manage vehicle listings
+- **Search Functionality:** Provide location-based search and filtering options
+- **Communication:** Facilitate communication between buyers and sellers
+- **Maps Integration:** Display vehicle locations and provide navigation assistance
 
+### 2.2 Service Improvement
+- **Analytics:** Analyze usage patterns to improve app functionality
+- **Personalization:** Customize content and recommendations based on your preferences
+- **Feature Development:** Develop new features and enhance existing ones
+- **Performance Optimization:** Monitor and improve app performance and reliability
 
+### 2.3 Legal and Security
+- **Fraud Prevention:** Detect and prevent fraudulent activities
+- **Security:** Protect against unauthorized access and security threats
+- **Legal Compliance:** Comply with applicable laws and regulations
+- **Dispute Resolution:** Resolve disputes and enforce our terms of service
 
+### 2.4 Marketing and Communication
+- **Service Updates:** Send important notices about our Services
+- **Promotional Communications:** Send marketing materials (with your consent)
+- **Customer Support:** Provide customer service and technical support
+- **Surveys and Feedback:** Request feedback to improve our Services
 
-AGREEMENT TO OUR LEGAL TERMS
-We are ScoutCar ('Company', 'we', 'us', or 'our'), a company registered in France at A1 Centre Tamayouz, North Urban Centre – Tunisia, ARPAJON 91290.
+## 3. LOCATION DATA
 
+### 3.1 Types of Location Data
 
-We operate the mobile application ScoutCar (the 'App'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services').
+**Precise Location (GPS):**
+- Collected only when you explicitly grant location permissions
+- Used for accurate vehicle location display and proximity-based searches
+- Can be disabled in your device settings at any time
 
+**Approximate Location:**
+- Derived from IP address or general area settings
+- Used for regional content and search results
+- Cannot be completely disabled while using location-based features
 
-You can contact us by phone at (+216) 28 48 99 94, email at contact@scoutcar.tn, or by mail to A1 Centre Tamayouz, North Urban Centre – Tunisia, ARPAJON 91290, France.
+### 3.2 How We Use Location Data
 
+**Core Functionality:**
+- **Vehicle Mapping:** Display vehicles on interactive maps
+- **Proximity Search:** Show listings near your location or specified areas
+- **Location-based Filtering:** Filter search results by geographic area
+- **Address Autocomplete:** Suggest addresses when creating listings
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and ScoutCar, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+**Enhanced Features:**
+- **Saved Searches:** Remember your preferred search locations
+- **Recommendations:** Suggest relevant listings based on your location patterns
+- **Regional Content:** Provide location-appropriate content and information
 
+### 3.3 Location Data Controls
 
-We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by contact@scoutcar.tn, as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
+**User Controls:**
+- **Permission Management:** Grant or revoke location permissions through device settings
+- **Selective Sharing:** Choose when to share your location for specific features
+- **Location Accuracy:** Choose between precise and approximate location sharing
+- **Data Deletion:** Request deletion of stored location data
 
+**Background Location:**
+- We do not collect location data when the app is not actively in use
+- Location tracking stops when you close the app or disable location services
+- No continuous or background location monitoring
 
-All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Services. If you are a minor, you must have your parent or guardian read and agree to these Legal Terms prior to you using the Services.
+### 3.4 Google Maps Integration
 
+We use Google Maps Platform services, which means:
+- Location queries are processed by Google's servers
+- Google's privacy policy applies to Google Maps usage
+- Map data and search queries may be subject to Google's data collection practices
+- You can review Google's privacy policy at: https://policies.google.com/privacy
 
-We recommend that you print a copy of these Legal Terms for your records.
+## 4. THIRD-PARTY SERVICES
 
+### 4.1 Google Services
 
-TABLE OF CONTENTS
-1. OUR SERVICES
-2. INTELLECTUAL PROPERTY RIGHTS
-3. USER REPRESENTATIONS
-4. PROHIBITED ACTIVITIES
-5. USER GENERATED CONTRIBUTIONS
-6. CONTRIBUTIONLICENCE
-7. MOBILE APPLICATION LICENCE
-8. THIRD-PARTY WEBSITES AND CONTENT
-9. SERVICES MANAGEMENT
-10. PRIVACY POLICY
-11. TERM AND TERMINATION
-12. MODIFICATIONS AND INTERRUPTIONS
-13. GOVERNING LAW
-14. DISPUTE RESOLUTION
-15. CORRECTIONS
-16. DISCLAIMER
-17. LIMITATIONS OF LIABILITY
-18. INDEMNIFICATION
-19. USER DATA
-20. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
-21. MISCELLANEOUS
-22. CONTACT US
+**Google Maps Platform:**
+- **Services Used:** Google Maps JavaScript API, Google Places API, Geocoding API
+- **Data Shared:** Location queries, map requests, place search terms
+- **Purpose:** Provide mapping, location search, and navigation features
+- **Privacy Policy:** https://policies.google.com/privacy
 
+**Google Analytics (if implemented):**
+- **Data Collected:** App usage statistics, user demographics, behavior patterns
+- **Purpose:** Analyze app usage and improve user experience
+- **Opt-out:** Available through device settings or app preferences
 
-1. OUR SERVICES
-The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+### 4.2 Other Third-Party Services
 
+**Cloud Services:**
+- **Purpose:** Data storage, backup, and processing
+- **Data Types:** User accounts, listings, images, application data
+- **Protection:** All third-party services are contractually bound to protect your data
 
-2. INTELLECTUAL PROPERTY RIGHTS
-Our intellectual property
-We are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the Services (collectively, the 'Content'), as well as the trademarks, service marks, and logos contained therein (the 'Marks').
+**Communication Services:**
+- **Purpose:** Send notifications, emails, and SMS messages
+- **Data Shared:** Contact information and message content
+- **Consent:** Used only with your explicit consent for each communication type
 
+### 4.3 Third-Party Links
 
-Our Content and Marks are protected by copyright and trademark laws (and various other intellectual property rights and unfair competition laws) and treaties around the world.
+Our App may contain links to third-party websites or services. We are not responsible for the privacy practices of these external sites. We encourage you to review their privacy policies before providing any personal information.
 
+## 5. INFORMATION SHARING
 
-The Content and Marks are provided in or through the Services 'AS IS' for your personal, non-commercial use or internal business purpose only.
-Your use of our Services
-Subject to your compliance with these Legal Terms, including the 'PROHIBITED ACTIVITIES' section below, we grant you a non-exclusive, non-transferable, revocable licence to:
-access the Services; and
-download or print a copy of any portion of the Content to which you have properly gained access,
-solely for your personal, non-commercial use or internal business purpose.
+### 5.1 When We Share Information
 
+We may share your personal information in the following circumstances:
 
-Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+**With Your Consent:**
+- When you explicitly authorize us to share information
+- For features that require information sharing to function
 
+**Service Provision:**
+- **Public Listings:** Vehicle listings and associated information are publicly visible
+- **Buyer-Seller Communication:** Contact information shared when users express interest in listings
+- **Map Display:** Vehicle locations displayed on public maps
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: contact@scoutcar.tn. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+**Legal Requirements:**
+- **Law Enforcement:** When required by law, court order, or government request
+- **Legal Proceedings:** To protect our rights or respond to legal claims
+- **Safety:** To prevent harm to users or the general public
 
+### 5.2 Business Transfers
 
-We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
+In the event of a merger, acquisition, or sale of assets, your information may be transferred to the acquiring entity, subject to the same privacy protections outlined in this policy.
 
+### 5.3 Service Providers
 
-Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to use our Services will terminate immediately.
-Your submissions
-Please review this section and the 'PROHIBITED ACTIVITIES' section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
+We may share information with trusted third-party service providers who assist us in:
+- Hosting and maintaining our Services
+- Processing payments
+- Sending communications
+- Analyzing usage data
+- Providing customer support
 
+All service providers are contractually bound to protect your information and use it only for the specified purposes.
 
-Submissions: By directly sending us any question, comment, suggestion, idea, feedback, or other information about the Services ('Submissions'), you agree to assign to us all intellectual property rights in such Submission. You agree that we shall own this Submission and be entitled to its unrestricted use and dissemination for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
+### 5.4 What We Don't Share
 
+**We do not:**
+- Sell your personal information to third parties
+- Share your information for third-party marketing purposes without consent
+- Provide access to your private messages or communications
+- Share precise location data without explicit permission
 
-You are responsible for what you post or upload: By sending us Submissions through any part of the Services you:
-confirm that you have read and agree with our 'PROHIBITED ACTIVITIES' and will not post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
-to the extent permissible by applicable law, waive any and all moral rights to any such Submission;
-warrant that any such Submission are original to you or that you have the necessary rights and licences to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and
-warrant and represent that your Submissions do not constitute confidential information.
-You are solely responsible for your Submissions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
+## 6. DATA SECURITY
 
+### 6.1 Security Measures
 
-3. USER REPRESENTATIONS
-By using the Services, you represent and warrant that: (1) you have the legal capacity and you agree to comply with these Legal Terms; (2) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Services; (3) you will not access the Services through automated or non-human means, whether through a bot, script or otherwise; (4) you will not use the Services for any illegal or unauthorised purpose; and (5) your use of the Services will not violate any applicable law or regulation.
+We implement comprehensive security measures to protect your personal information:
 
+**Technical Safeguards:**
+- **Encryption:** Data encrypted in transit and at rest using industry-standard protocols
+- **Secure Servers:** Protected hosting environment with regular security updates
+- **Access Controls:** Restricted access to personal information on a need-to-know basis
+- **Monitoring:** Continuous monitoring for security threats and unauthorized access
 
-If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Services (or any portion thereof).
+**Administrative Safeguards:**
+- **Staff Training:** Regular security training for employees with access to personal data
+- **Background Checks:** Security screening for employees handling personal information
+- **Incident Response:** Established procedures for responding to security breaches
+- **Regular Audits:** Periodic security assessments and vulnerability testing
 
+**Physical Safeguards:**
+- **Secure Facilities:** Physical security measures for servers and data storage
+- **Access Control:** Restricted physical access to areas containing personal information
+- **Device Security:** Secure disposal and management of electronic devices
 
-4. PROHIBITED ACTIVITIES
-You may not access or use the Services for any purpose other than that for which we make the Services available. The Services may not be used in connection with any commercial endeavours except those that are specifically endorsed or approved by us.
+### 6.2 Data Breach Response
 
+In the event of a security breach:
+- We will investigate and contain the breach immediately
+- Affected users will be notified within 72 hours when feasible
+- Relevant authorities will be notified as required by law
+- We will take steps to prevent similar incidents in the future
 
-As a user of the Services, you agree not to:
-Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
-Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
-Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
-Use any information obtained from the Services in order to harass, abuse, or harm another person.
-Make improper use of our support services or submit false reports of abuse or misconduct.
-Use the Services in a manner inconsistent with any applicable laws or regulations.
-Engage in unauthorised framing of or linking to the Services.
-Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services.
-Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-Delete the copyright or other proprietary rights notice from any Content.
-Attempt to impersonate another user or person or use the username of another user.
-Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ('gifs'), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as 'spyware' or 'passive collection mechanisms' or 'pcms').
-Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
-Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
-Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
-Copy or adapt the Services' software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.
-Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Services, or use or launch any unauthorised script or other software.
-Use a buying agent or purchasing agent to make purchases on the Services.
-Make any unauthorised use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretences.
-Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavour or commercial enterprise.
+### 6.3 Your Security Responsibilities
 
+**To help protect your information:**
+- Use strong, unique passwords for your account
+- Keep your app updated to the latest version
+- Don't share your login credentials with others
+- Log out of shared devices after use
+- Report any suspicious activity immediately
 
-5. USER GENERATED CONTRIBUTIONS
-The Services does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Services, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, 'Contributions'). Contributions may be viewable by other users of the Services and through third-party websites. As such, any Contributions you transmit may be treated in accordance with the Services' Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:
-The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-You are the creator and owner of or have the necessary licences, rights, consents, releases, and permissions to use and to authorise us, the Services, and other users of the Services to use your Contributions in any manner contemplated by the Services and these Legal Terms.
-You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Services and these Legal Terms.
-Your Contributions are not false, inaccurate, or misleading. 
-Your Contributions are not unsolicited or unauthorised advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libellous, slanderous, or otherwise objectionable (as determined by us).
-Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
-Your Contributions do not violate any applicable law, regulation, or rule.
-Your Contributions do not violate the privacy or publicity rights of any third party.
-Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
-Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-Your Contributions do not otherwise violate, or link to material that violates, any provision of these Legal Terms, or any applicable law or regulation.
-Any use of the Services in violation of the foregoing violates these Legal Terms and may result in, among other things, termination or suspension of your rights to use the Services.
+## 7. DATA RETENTION
 
+### 7.1 Retention Periods
 
-6. CONTRIBUTION LICENCE
-You and Services agree that we may access, store, process, and use any information and personal data that you provide following the terms of the Privacy Policy and your choices (including settings).
+We retain your personal information for different periods based on the type of data and purpose:
 
+**Account Information:**
+- **Active Accounts:** Retained while your account is active
+- **Inactive Accounts:** Deleted after 3 years of inactivity (with prior notice)
+- **Closed Accounts:** Deleted within 30 days of account closure (except as required by law)
 
-By submitting suggestions or other feedback regarding the Services, you agree that we can use and share such feedback for any purpose without compensation to you.
+**Vehicle Listings:**
+- **Active Listings:** Retained while listing is active
+- **Expired/Sold Listings:** Archived for 1 year, then deleted
+- **Deleted Listings:** Removed immediately upon user request
 
+**Communication Data:**
+- **Messages:** Retained for 2 years to facilitate dispute resolution
+- **Support Communications:** Retained for 3 years for quality assurance
+- **Marketing Communications:** Retained until you unsubscribe
 
-We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Services. You are solely responsible for your Contributions to the Services and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
+**Technical Data:**
+- **Usage Analytics:** Aggregated data retained indefinitely (anonymized)
+- **Log Files:** Retained for 1 year for security and diagnostic purposes
+- **Error Reports:** Retained for 2 years for app improvement
 
+### 7.2 Legal Retention Requirements
 
-7. MOBILE APPLICATION LICENCE
-Use Licence
-If you access the Services via the App, then we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the App on wireless electronic devices owned or controlled by you, and to access and use the App on such devices strictly in accordance with the terms and conditions of this mobile application licence contained in these Legal Terms. You shall not: (1) except as permitted by applicable law, decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the App; (2) make any modification, adaptation, improvement, enhancement, translation, or derivative work from the App; (3) violate any applicable laws, rules, or regulations in connection with your access or use of the App; (4) remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by us or the licensors of the App; (5) use the App for any revenue-generating endeavour, commercial enterprise, or other purpose for which it is not designed or intended; (6) make the App available over a network or other environment permitting access or use by multiple devices or users at the same time; (7) use the App for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the App; (8) use the App to send automated queries to any website or to send any unsolicited commercial email; or (9) use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the App.
-Apple and Android Devices
-The following terms apply when you use the App obtained from either the Apple Store or Google Play (each an 'App Distributor') to access the Services: (1) the licence granted to you for our App is limited to a non-transferable licence to use the application on a device that utilises the Apple iOS or Android operating systems, as applicable, and in accordance with the usage rules set forth in the applicable App Distributor’s terms of service; (2) we are responsible for providing any maintenance and support services with respect to the App as specified in the terms and conditions of this mobile application licence contained in these Legal Terms or as otherwise required under applicable law, and you acknowledge that each App Distributor has no obligation whatsoever to furnish any maintenance and support services with respect to the App; (3) in the event of any failure of the App to conform to any applicable warranty, you may notify the applicable App Distributor, and the App Distributor, in accordance with its terms and policies, may refund the purchase price, if any, paid for the App, and to the maximum extent permitted by applicable law, the App Distributor will have no other warranty obligation whatsoever with respect to the App; (4) you represent and warrant that (i) you are not located in a country that is subject to a US government embargo, or that has been designated by the US government as a 'terrorist supporting' country and (ii) you are not listed on any US government list of prohibited or restricted parties; (5) you must comply with applicable third-party terms of agreement when using the App, e.g. if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the App; and (6) you acknowledge and agree that the App Distributors are third-party beneficiaries of the terms and conditions in this mobile application licence contained in these Legal Terms, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the terms and conditions in this mobile application licence contained in these Legal Terms against you as a third-party beneficiary thereof.
+Some information may be retained longer when required by law:
+- Tax and financial records: As required by Tunisian law
+- Legal proceedings: Until resolution of any legal matters
+- Regulatory compliance: As mandated by applicable regulations
 
+## 8. YOUR PRIVACY RIGHTS
 
-8. THIRD-PARTY WEBSITES AND CONTENT
-The Services may contain (or you may be sent via the App) links to other websites ('Third-Party Websites') as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties ('Third-Party Content'). Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for any Third-Party Websites accessed through the Services or any Third-Party Content posted on, available through, or installed from the Services, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content. Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by us. If you decide to leave the Services and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk, and you should be aware these Legal Terms no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Services or relating to any applications you use or install from the Services. Any purchases you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. You agree and acknowledge that we do not endorse the products or services offered on Third-Party Websites and you shall hold us blameless from any harm caused by your purchase of such products or services. Additionally, you shall hold us blameless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
+### 8.1 Access and Control Rights
 
+You have the following rights regarding your personal information:
 
-9. SERVICES MANAGEMENT
-We reserve the right, but not the obligation, to: (1) monitor the Services for violations of these Legal Terms; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Legal Terms, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Services or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Services in a manner designed to protect our rights and property and to facilitate the proper functioning of the Services.
+**Access Rights:**
+- **View Your Data:** Request a copy of personal information we hold about you
+- **Data Portability:** Receive your data in a structured, commonly used format
+- **Account Information:** Access and review your account information through the app
 
+**Control Rights:**
+- **Correction:** Update or correct inaccurate personal information
+- **Deletion:** Request deletion of your personal information (subject to legal requirements)
+- **Restriction:** Limit how we process your personal information
+- **Objection:** Object to certain types of data processing
 
-10. PRIVACY POLICY
-We care about data privacy and security. Please review our Privacy Policy: https://scoutcar.tn/register/politique-de-confidentialite/. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in France. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in France, then through your continued use of the Services, you are transferring your data to France, and you expressly consent to have your data transferred to and processed in France.
+### 8.2 Communication Preferences
 
+**Marketing Communications:**
+- **Opt-out:** Unsubscribe from promotional emails and notifications
+- **Preferences:** Choose which types of communications you want to receive
+- **Frequency:** Adjust how often you receive communications
 
-11. TERM AND TERMINATION
-These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL TERMS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICES OR DELETE ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
+**App Notifications:**
+- **Push Notifications:** Enable or disable through device settings
+- **In-app Notifications:** Customize notification preferences within the app
+- **Email Notifications:** Manage email notification settings in your account
 
+### 8.3 Location Privacy Controls
 
-If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
+**Location Permissions:**
+- **Device Settings:** Enable or disable location access through device settings
+- **App-level Controls:** Choose when to share location for specific features
+- **Precision Level:** Select between precise and approximate location sharing
 
+**Location Data Management:**
+- **View Location Data:** See what location information we have collected
+- **Delete Location History:** Request deletion of stored location data
+- **Location Sharing:** Control who can see your location in listings
 
-12. MODIFICATIONS AND INTERRUPTIONS
-We reserve the right to change, modify, or remove the contents of the Services at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Services. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Services.
+### 8.4 How to Exercise Your Rights
 
+**Through the App:**
+- Access account settings to update information and preferences
+- Delete listings and content you've created
+- Adjust privacy and notification settings
 
-We cannot guarantee the Services will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Services, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Services at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Services during any downtime or discontinuance of the Services. Nothing in these Legal Terms will be construed to obligate us to maintain and support the Services or to supply any corrections, updates, or releases in connection therewith.
+**Contact Us:**
+- Email: contact@scoutcar.tn
+- Phone: (+216) 28 48 99 94
+- We will respond to privacy requests within 30 days
 
+**Verification Process:**
+- We may request verification of your identity before processing requests
+- Additional documentation may be required for sensitive requests
+- Some requests may take longer to process due to technical or legal requirements
 
-13. GOVERNING LAW
-These Legal Terms are governed by and interpreted following the laws of France, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. ScoutCar and yourself both agree to submit to the non-exclusive jurisdiction of the courts of ARPAJON, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in France, or in the EU country in which you reside.
+### 8.5 EU Resident Rights
 
+If you are located in the European Union, you have additional rights under GDPR:
+- **Data Protection Officer:** Right to contact our data protection representative
+- **Supervisory Authority:** Right to lodge a complaint with your local data protection authority
+- **Legal Basis:** Information about the legal basis for processing your data
+- **Automated Decision Making:** Protection from solely automated decision-making processes
 
-14. DISPUTE RESOLUTION
-Informal Negotiations
-To expedite resolution and control the cost of any dispute, controversy, or claim related to these Legal Terms (each a 'Dispute' and collectively, the 'Disputes') brought by either you or us (individually, a 'Party' and collectively, the 'Parties'), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least thirty (30) days before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
-Binding Arbitration
-Any dispute arising from the relationships between the Parties to these Legal Terms shall be determined by one arbitrator who will be chosen in accordance with the Arbitration and Internal Rules of the European Court of Arbitration being part of the European Centre of Arbitration having its seat in Strasbourg, and which are in force at the time the application for arbitration is filed, and of which adoption of this clause constitutes acceptance. The seat of arbitration shall be ARPAJON, France. The language of the proceedings shall be France. Applicable rules of substantive law shall be the law of France.
-Restrictions
-The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a class-action basis or to utilise class action procedures; and (c) there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons.
-Exceptions to Informal Negotiations and Arbitration
-The Parties agree that the following Disputes are not subject to the above provisions concerning informal negotiations binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorised use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+## 9. CHILDREN'S PRIVACY
 
+### 9.1 Age Requirements
 
-15. CORRECTIONS
-There may be information on the Services that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Services at any time, without prior notice.
+**Minimum Age:**
+- Our Services are not intended for children under 13 years of age
+- We do not knowingly collect personal information from children under 13
+- Users between 13-17 must have parental consent to use our Services
 
+### 9.2 Parental Consent and Control
 
-16. DISCLAIMER
-THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICES' CONTENT OR THE CONTENT OF ANY WEBSITES OR MOBILE APPLICATIONS LINKED TO THE SERVICES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (3) ANY UNAUTHORISED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICES, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICES BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICES. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGEMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+**For Users Under 18:**
+- **Parental Consent:** Required before creating an account or using our Services
+- **Supervision:** Parents should supervise their child's use of our Services
+- **Account Management:** Parents can request access to or deletion of their child's information
 
+**Parental Rights:**
+- **Review:** Request to review information collected from their child
+- **Delete:** Request deletion of their child's personal information
+- **Refuse Collection:** Prevent further collection of their child's information
+- **Communication:** Receive notifications about their child's account activity
 
-17. LIMITATIONS OF LIABILITY
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+### 9.3 If We Discover Children's Data
 
+If we learn that we have collected personal information from a child under 13 without proper consent:
+- **Immediate Action:** We will take steps to delete the information as quickly as possible
+- **Account Closure:** The child's account will be terminated
+- **Parent Notification:** We will attempt to notify parents/guardians if contact information is available
+- **System Review:** We will review our data collection practices to prevent future occurrences
 
-18. INDEMNIFICATION
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) use of the Services; (2) breach of these Legal Terms; (3) any breach of your representations and warranties set forth in these Legal Terms; (4) your violation of the rights of a third party, including but not limited to intellectual property rights; or (5) any overt harmful act toward any other user of the Services with whom you connected via the Services. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defence and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defence of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
+### 9.4 How Parents Can Contact Us
 
+Parents who believe their child has provided personal information to us can contact us at:
+- **Email:** contact@scoutcar.tn
+- **Phone:** (+216) 28 48 99 94
+- **Subject Line:** Include "Children's Privacy Request" in your communication
 
-19. USER DATA
-We will maintain certain data that you transmit to the Services for the purpose of managing the performance of the Services, as well as data relating to your use of the Services. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Services. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
+## 10. INTERNATIONAL DATA TRANSFERS
 
+### 10.1 Data Processing Locations
 
-20. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
-Visiting the Services, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Services, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SERVICES. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
+**Primary Processing:**
+- **Tunisia:** Our primary servers and data processing facilities are located in Tunisia
+- **Regional Services:** Some services may utilize servers in neighboring regions for performance
+- **Third-party Services:** Some data may be processed by third-party services in other countries
 
+### 10.2 Cross-Border Data Transfers
 
-21. MISCELLANEOUS
-These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Legal Terms and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Legal Terms or use of the Services. You agree that these Legal Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defences you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.
+When we transfer personal data outside of Tunisia:
 
+**EU Residents:**
+- **Adequacy Decisions:** We rely on European Commission adequacy decisions where available
+- **Standard Contractual Clauses:** We use EU-approved standard contractual clauses with service providers
+- **Appropriate Safeguards:** Additional protections are implemented for international transfers
+- **Data Subject Rights:** EU residents retain their rights regardless of processing location
 
-22. CONTACT US
-In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
+**Other International Users:**
+- **Legal Protections:** We ensure appropriate legal protections are in place
+- **Contractual Safeguards:** Service providers are contractually bound to protect your data
+- **Local Law Compliance:** We comply with applicable data protection laws in processing locations
 
+### 10.3 Third-Party Service Locations
 
-ScoutCar
-A1 Centre Tamayouz, North Urban Centre – Tunisia
-ARPAJON 91290
-France
-Phone: (+216) 28 48 99 94
-contact@scoutcar.tn
+**Google Services:**
+- Google Maps and related services may process data in various countries
+- Subject to Google's privacy policy and international data transfer practices
+- Protected by Google's security measures and compliance certifications
+
+**Other Service Providers:**
+- **Location Disclosure:** We will inform you if services are provided from specific locations
+- **Protection Standards:** All providers must meet our security and privacy standards
+- **Transfer Limitations:** We limit international transfers to necessary purposes only
+
+## 11. COOKIES AND TRACKING
+
+### 11.1 Types of Tracking Technologies
+
+**Mobile App Analytics:**
+- **Usage Analytics:** Track app usage patterns and feature utilization
+- **Performance Monitoring:** Monitor app performance and identify issues
+- **Crash Reporting:** Collect information about app crashes and errors
+
+**Device Identifiers:**
+- **Advertising ID:** May collect advertising identifiers for analytics purposes
+- **Device Fingerprinting:** Collect device characteristics for security and fraud prevention
+- **Session Tracking:** Track user sessions for app functionality
+
+### 11.2 How We Use Tracking Data
+
+**App Improvement:**
+- **Feature Usage:** Understand which features are most popular
+- **User Experience:** Identify areas for app improvement
+- **Bug Fixes:** Prioritize fixes based on usage data and error reports
+
+**Security and Fraud Prevention:**
+- **Suspicious Activity:** Detect unusual usage patterns
+- **Account Security:** Protect against unauthorized access
+- **Platform Integrity:** Maintain the security of our Services
+
+### 11.3 Your Tracking Controls
+
+**Opt-out Options:**
+- **Analytics:** Disable analytics tracking through app settings
+- **Advertising ID:** Reset or disable advertising ID through device settings
+- **Location Tracking:** Control location-based tracking through app and device settings
+
+**Device-Level Controls:**
+- **Privacy Settings:** Use device privacy settings to limit tracking
+- **Ad Preferences:** Manage advertising preferences through device settings
+- **App Permissions:** Control what information the app can access
+
+## 12. UPDATES TO THIS POLICY
+
+### 12.1 Policy Changes
+
+**How We Update This Policy:**
+- **Regular Review:** We review this policy regularly to ensure it remains current
+- **Legal Changes:** Updates may be necessary due to changes in applicable laws
+- **Service Changes:** Policy updates may reflect changes to our Services or data practices
+- **User Feedback:** We may update the policy based on user feedback and concerns
+
+### 12.2 Notification of Changes
+
+**Material Changes:**
+- **Email Notice:** We will email registered users about significant changes
+- **App Notification:** Important changes will be highlighted in the app
+- **Website Posting:** Updated policies will be posted on our website
+- **Effective Date:** Clear indication of when changes take effect
+
+**Minor Changes:**
+- **Policy Page Updates:** Minor clarifications will be updated directly in the policy
+- **Version History:** We maintain a record of policy versions and changes
+- **Regular Check:** We encourage users to review the policy periodically
+
+### 12.3 Continued Use
+
+**Acceptance of Changes:**
+- **Continued Use:** Using our Services after policy changes indicates acceptance
+- **Opt-out Option:** You may close your account if you disagree with changes
+- **Grace Period:** Reasonable notice period before significant changes take effect
+
+## 13. CONTACT INFORMATION
+
+### 13.1 Privacy Questions and Requests
+
+For any questions about this Privacy Policy or to exercise your privacy rights:
+
+**Primary Contact:**
+- **Email:** contact@scoutcar.tn
+- **Phone:** (+216) 28 48 99 94
+- **Address:** App A1 Immeuble Tamayouz Centre Urbain Nord 1082, Tunis, Tunisia
+
+**Business Hours:**
+- **Phone Support:** Monday-Friday, 9:00 AM - 6:00 PM (Tunisia Time)
+- **Email Response:** We respond to emails within 48 hours
+- **Privacy Requests:** Processed within 30 days of receipt
+
+### 13.2 Data Protection Authority
+
+**For Tunisia Residents:**
+If you have concerns about our data practices, you may contact:
+- **Instance Nationale de Protection des Données Personnelles (INPDP)**
+- **Website:** [INPDP contact information]
+
+**For EU Residents:**
+You have the right to lodge a complaint with your local data protection authority if you believe we have violated your privacy rights.
+
+### 13.3 Emergency Contact
+
+**Security Incidents:**
+If you believe your account has been compromised or you've discovered a security vulnerability:
+- **Immediate Email:** contact@scoutcar.tn with "SECURITY" in the subject line
+- **Phone:** (+216) 28 48 99 94 (available 24/7 for security issues)
+
+---
+
+**Effective Date:** This Privacy Policy is effective as of October 21, 2024.
+
+**Last Updated:** October 21, 2024
+
+**Version:** 1.0
+
+---
+
+*By using ScoutCar, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and processing of your information as described herein.*
